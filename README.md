@@ -1,5 +1,4 @@
-# 💫 About Me:
-Meu nome é Felipe, sou estudante do 3° ano do Ensino Médio e procuro uma oportunidade para ingressar no mercado de programação desenvolvendo softwares ou sites.
+Meu nome é Felipe.
 
 
 ## 🌐 Socials:
