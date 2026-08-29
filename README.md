@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! My name is Felipe, but on the internet, people call me Poke.
+Hello! My name is Felipe, but people usually call me Poke on the internet.
 
 
 ## 🌐 Socials:
