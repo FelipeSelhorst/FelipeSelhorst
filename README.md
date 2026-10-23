@@ -47,8 +47,15 @@ Actually, my name is Felipe, but people call me Poke in the internet.
 </div>
 
 <!-- Statistics -->
+<!--
 <div align="center">
 
 ## Statistics
+</div>
+
+<div align="center">
+
+![Metrics](/github-metrics.svg)
 
 </div>
+-->
