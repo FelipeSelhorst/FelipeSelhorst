@@ -9,10 +9,12 @@
 <!-- About me -->
 <div align="center">
 
-## Hello, I'm Poke
+## Yo, I'm Poke
 
-Actually, my name is Felipe, but people call me Poke in the internet.
-<br>I do stuff related to games and my personal hobbies.
+Professional at breaking things, but also at figuring out how to fix them.
+<br>I like messing around with code, learning new things, and building stuff that complement my hobbies.
+
+###### Actually, my name is Felipe, but people call me Poke in the internet.
 
 </div>
 
