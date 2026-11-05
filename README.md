@@ -11,10 +11,10 @@
 
 ## Yo, I'm Poke
 
-Professional at breaking things, but also at figuring out how to fix them.
-<br>I like messing around with code, learning new things, and building stuff that complement my hobbies.
+Professional at breaking and learning stuff.
+<br>I like messing around with code, learning new things, and building things to complement my hobbies.
 
-###### Actually, my name is Felipe, but people call me Poke in the internet.
+###### My name is Felipe, but I prefer Poke in the internet.
 
 </div>
 
@@ -27,7 +27,7 @@ Professional at breaking things, but also at figuring out how to fix them.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,mysql&perline=3" />
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css&perline=3" />
   </a>
 </p>
 
